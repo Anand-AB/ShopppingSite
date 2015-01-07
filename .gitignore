@@ -1,0 +1,5 @@
+*.apk
+bin/*.*
+libs/*.*
+gen/*.*
+.gitignore
